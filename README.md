@@ -1,16 +1,19 @@
-## Hi there 👋
+ Salut, c'est Zakarya ! 
 
-<!--
-**Zakarya2007/Zakarya2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en BUT Informatique et passionné par la résolution de problèmes par le code et l'infrastructure. Mon GitHub est mon terrain de jeu où je traduis la théorie en pratique ! 
 
-Here are some ideas to get you started:
+Je suis particulièrement intéressé par la logique métier et les environnements systèmes :
+Développement C : Je travaille sur des applications de gestion avec des règles métier complexes (comme la gestion de scolarité étudiante).
+Systèmes & Réseaux :  Je mets en place et j'administre des environnements virtualisés sous Linux[cite: 18, 20].
+Frontend : Je conçois des plateformes web modernes et responsives (HTML/CSS, Bootstrap 5)[cite: 21, 23].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Je cherche à rejoindre une équipe technique stimulante en alternance (24 mois, dès Septembre 2026).
+Que ce soit pour du Dev, du Système, de la BDD ou du Réseau.
+
+
+Langages : C, Java, JavaScript, SQL, Assembleur 
+Environnement & Outils : Linux, Windows, Git/GitHub, VS Code 
+
+Pour me contacter :
+Email : zakarya.ousahla@gmail.com 
